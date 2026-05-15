@@ -1,0 +1,16 @@
+name: firebase_service
+description: "Local Firebase service package for forum_e_fast app. Handles CRUD operations for Firestore and Authentication."
+version: 0.1.0
+publish_to: "none"
+
+environment:
+  sdk: ^3.10.8
+
+dependencies:
+  firebase_core: ^4.9.0
+  cloud_firestore: ^6.4.1
+  firebase_auth: ^6.5.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "464396711047",
+    "project_id": "forum-e-fast",
+    "storage_bucket": "forum-e-fast.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464396711047:android:1968dc330ff224cd98b422",
+        "android_client_info": {
+          "package_name": "com.example.forum_e_fast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZpAOUSHwaqMqDeOtj2xU4jn0OOPBJjMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

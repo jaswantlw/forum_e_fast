@@ -1,6 +1,6 @@
 name: forum_e_fast
 description: "A new Flutter project."
-publish_to: 'none'
+publish_to: "none"
 version: 0.1.0
 
 environment:
@@ -9,11 +9,22 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  # State Management
+  flutter_bloc: ^9.0.0
+  # Firebase
+  firebase_core: ^4.9.0
+  cloud_firestore: ^6.4.1
+  firebase_auth: ^6.5.1
+  # Local packages
+  firebase_service:
+    path: ./packages/firebase_service
+  # Utilities
+  equatable: ^2.0.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^6.0.0
-
-flutter:
-  uses-material-design: true
+  mockito: ^5.4.0
+  bloc_test: ^10.0.0
+  build_runner: ^2.4.0
