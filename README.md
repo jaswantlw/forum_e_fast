@@ -116,5 +116,3 @@ This is a student project. To contribute:
 Add your license here.
 
 ---
-
-If you want, I can add screenshots to the README and generate the mock files/tests for you. Which do you prefer next?
