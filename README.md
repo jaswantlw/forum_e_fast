@@ -1,13 +1,18 @@
 # Forum FAST
 
 <!-- Screenshots -->
-![Home screen](images/smd_a2_home.jpeg)
-![Post detail](images/smd_a2_post.jpeg)
-![Login screen](images/smd_a2_login.jpeg)
-![Home screen Drawer](images/smd_a2_drawer.jpeg)
+<p align="center">
+  <img src="images/smd_a2_home.jpeg" width="220"/>
+  <img src="images/smd_a2_post.jpeg" width="220"/>
+</p>
+
+<p align="center">
+  <img src="images/smd_a2_login.jpeg" width="220"/>
+  <img src="images/smd_a2_drawer.jpeg" width="220"/>
+</p>
 
 ## Submission Details:
-Section: 8A
+Section: 8A  
 Group Members: 22k4413, 22k4461, 22K-4301, 22K-4473
 
 ## Overview
