@@ -1,12 +1,10 @@
 # Forum FAST
 
 <!-- Screenshots -->
-<!--
-Add screenshots here (mobile / web) — leave image links or paths.
-Example:
-![Home screen](screenshots/home.png)
-![Post detail](screenshots/post_detail.png)
--->
+![Home screen](images/smd_a2_home.jpeg)
+![Post detail](images/smd_a2_post.jpeg)
+![Login screen](images/smd_a2_login.jpeg)
+![Home screen Drawer](images/smd_a2_drawer.jpeg)
 
 ## Submission Details:
 Section: 8A
