@@ -9,9 +9,8 @@ Example:
 -->
 
 ## Submission Details:
-SMD-8A
-Jaswant Lal (22k4473)
-Ali Jafar
+Section: 8A
+Group Members: 22k4413, 22k4461, 22K-4301, 22K-4473
 
 ## Overview
 
