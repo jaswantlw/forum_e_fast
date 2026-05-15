@@ -8,6 +8,11 @@ Example:
 ![Post detail](screenshots/post_detail.png)
 -->
 
+## Submission Details:
+SMD-8A
+Jaswant Lal (22k4473)
+Ali Jafar
+
 ## Overview
 
 Forum FAST is a Flutter-based forum application built with Firebase (Authentication and Cloud Firestore) and BLoC state management. The app supports user signup/login, creating posts, replies, comments, likes, pagination, and offline-friendly Firestore operations. It follows a 3-layer architecture (Services → Repositories → BLoCs → UI).
